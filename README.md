@@ -1,2 +1,3 @@
-# Proyecto_28
-1:54
+# Plantilla C28
+
+Plantilla C28
